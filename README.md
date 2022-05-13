@@ -1,25 +1,23 @@
-👋 Hi, I’m @Imunely
+### Hi there 👋, my name is Emmanuel
+#### I'm information security specialist | web-developer
+![I'm information security specialist | web-developer](https://user-images.githubusercontent.com/93548805/168327779-47bb2d55-17d7-43a4-bf66-bf54a344a792.png)
 
-EDUCATION
 
-Kaliningrad State Technical University
-Institute of Digital Technologies
-Information Security
+Skills: good level: PHP, SQL; basic level C++, JQ; good knowledge of Unix, Windows, console; basic level of work in some DLP, IPS-IDS, SIEM: max-potrol, snort, ip-table, etc.
 
- ADDITIONAL INFORMATION
- 
- University and scientific achievements:
-1. Development of a laboratory setup (peer-to-peer network for studying web attacks);
-2. Development of access control models;
-3. Development of a module for detecting web attacks (using machine learning);
+- 🔭 I’m currently working on  security module using machine learning 
+- 🌱 I’m currently learning Kaliningrad State Technical University Institute of Digital Technologies Information Security 
+- 💬 Ask me about how are you! 
+- 📫 How to reach me: phone number or social media 
+- ⚡ Fun fact: I am a Jew, but unfortunately not cunning 
 
-Other achievements:
 
-1. Development and refinement of web application protection modules;
-2. Achievements in regional/all-Russian competitions in cyber security;
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Imunely)  
 
-Skills and knowledge:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imunely)](https://github.com/anuraghazra/github-readme-stats)
 
-1. programming: good level: PHP, SQL; basic level C++, JQ;
-2. good knowledge of Unix, Windows, console;
-3. basic level of work in some DLP, IPS-IDS, SIEM: max-potrol, snort, ip-table, etc.
+![GitHub metrics](https://metrics.lecoq.io/Imunely)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Imunely)  
+
+
