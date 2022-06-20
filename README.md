@@ -16,8 +16,6 @@ Skills: good level: PHP, SQL; basic level C++, JQ; good knowledge of Unix, Windo
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imunely)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub metrics](https://metrics.lecoq.io/Imunely)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Imunely)  
 
 
