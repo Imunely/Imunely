@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emmanuil</h1>
-<h3 align="center">I'm information security specialist | web-developer</h3>
 
-https://unite.un.org/information-security![image](https://user-images.githubusercontent.com/93548805/184542578-c7aa3b05-2a4d-4675-b491-819af04ea47a.png)
+![image](https://user-images.githubusercontent.com/93548805/184542578-c7aa3b05-2a4d-4675-b491-819af04ea47a.png)
+<h3 align="center">I'm information security specialist | web-developer</h3>
 
 - 🔭 I’m currently working on working on **security module using machine learning** 
 - 🌱 I’m currently learning **Kaliningrad State Technical University Institute of Digital Technologies Information Security** 
