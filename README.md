@@ -11,7 +11,7 @@
 
 
 <h3 align="center">Languages and Tools</h3>
-<p align="left">
+<p align="center">
     <h4>Good level</h4>
     <a href="https://www.php.net" target="_blank" rel="noreferrer">
         <img
