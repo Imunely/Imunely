@@ -1,17 +1,22 @@
-<h1 align="center">Hi 👋, I'm Emmanuil</h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/mEOc5hjQN4ATHA2b2Z/giphy.gif" width="100"/>
+  <h3 align="center">Hello...</h3>
+  <h4 align="center"> I'm information security specialist | web-developer...</h4>
+</div>
 
-![image](https://user-images.githubusercontent.com/93548805/184542578-c7aa3b05-2a4d-4675-b491-819af04ea47a.png)
-<h3 align="center">I'm information security specialist | web-developer</h3>
+---
 
+### :woman_technologist: About Me :
 - 🔭 I’m currently working on working on **security module using machine learning** 
 - 🌱 I’m currently learning **Kaliningrad State Technical University Institute of Digital Technologies Information Security** 
 - 💬 Ask me about **how are you!** 
 - 📫 How to reach me **phone number or social media** 
 - ⚡ Fun fact **I am a Jew, but unfortunately not cunning**
 
+---
 
-<h3 align="center">Languages and Tools</h3>
-<p align="center">
+### :hammer_and_wrench: Languages and Tools :
+<p align="left">
     <h4>Good level</h4>
     <a href="https://www.php.net" target="_blank" rel="noreferrer">
         <img
@@ -174,6 +179,8 @@
         />
       </a>
 </p>
+
+---
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imunely&show_icons=true&locale=en&layout=compact" alt="imunely"/>
 </p>
