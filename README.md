@@ -182,5 +182,5 @@
 
 ---
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imunely&show_icons=true&locale=en&layout=compact" alt="imunely"/>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imunely&show_icons=true&locale=en&layout=compact&theme=dark&background=000000" alt="imunely"/>
 </p>
